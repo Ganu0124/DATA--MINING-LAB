@@ -7,9 +7,8 @@ This repository contains Data Mining lab programs implemented using Python and J
 1. Introduction to Data Mining
 2. Binning Techniques
 3. Apriori Algorithm
-4. Advanced Apriori Implementation
-5. PCA and Decision Tree
-6. Naive Bayes Classification
+4. PCA and Decision Tree
+5. Naive Bayes Classification
 
 ## Tools & Technologies
 - Python
