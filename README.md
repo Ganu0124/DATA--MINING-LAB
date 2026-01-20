@@ -19,4 +19,4 @@ This repository contains Data Mining lab programs implemented using Python and J
 - Scikit-learn
 
 ## Author
-Ganesh Ganu
+Ganesh M
