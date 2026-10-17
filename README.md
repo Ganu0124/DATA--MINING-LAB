@@ -1,4 +1,4 @@
-ganu ganesh 01 
+ganesh 01 
 
 # DATA--MINING-LAB
 Data Mining programs and implementations
