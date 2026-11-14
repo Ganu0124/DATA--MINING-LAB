@@ -1,3 +1,4 @@
+ganu hanu ganu agb ynabsshbdc
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=180&section=header&text=DATA%20MINING%20LAB&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
